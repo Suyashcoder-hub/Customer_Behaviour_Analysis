@@ -214,7 +214,8 @@ The dashboard provides a visual overview of customer purchasing behavior and key
 
 ### Dashboard Preview
 
-> 📸 Add your Power BI dashboard screenshot here.
+> <img width="1429" height="792" alt="Screenshot 2026-08-17 233108" src="https://github.com/user-attachments/assets/c77abbdf-7edf-4c81-8894-6750e74f1f76" />
+
 
 ```text
 ![Power BI Dashboard](images/dashboard.png)
