@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+#  Customer Shopping Behavior Analysis
 
 An end-to-end **Data Analytics project** that analyzes customer shopping behavior using **Python, PostgreSQL, SQL, and Power BI**.
 
@@ -6,7 +6,7 @@ The project works with transactional data containing **3,900 customer purchases 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The main objective of this project is to transform raw customer transaction data into meaningful business insights that can support better decision-making.
 
@@ -16,7 +16,7 @@ The project follows a complete analytics workflow:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze customer purchasing behavior
 * Understand revenue contribution across customer segments
@@ -31,7 +31,7 @@ The project follows a complete analytics workflow:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains:
 
@@ -52,7 +52,7 @@ There were **37 missing values in the Review Rating column**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Python
 
@@ -79,7 +79,7 @@ There were **37 missing values in the Review Rating column**.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading
 
@@ -152,7 +152,7 @@ This allowed SQL to be used for structured business analysis and answering speci
 
 ---
 
-## 🔎 SQL Business Analysis
+##  SQL Business Analysis
 
 The project answered several business questions using PostgreSQL.
 
@@ -194,7 +194,7 @@ The project answered several business questions using PostgreSQL.
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 An interactive **Power BI dashboard** was created to visually present the analysis and make the insights easier to understand.
 
@@ -223,7 +223,7 @@ The dashboard provides a visual overview of customer purchasing behavior and key
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis, the following recommendations were identified:
 
@@ -249,7 +249,7 @@ Focus marketing efforts on high-revenue age groups and customers using express s
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Customer-Shopping-Behavior-Analysis/
@@ -274,7 +274,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-## 🚀 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -293,7 +293,7 @@ This project demonstrates practical experience in:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates an end-to-end approach to solving a real-world **customer analytics problem**.
 
@@ -301,7 +301,7 @@ By combining **Python for data preparation, PostgreSQL for business analysis, an
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Suyash Dwivedi**
 
